@@ -1,0 +1,21 @@
+[submodule "pandoc-custom-templates"]
+	path = pandoc-custom-templates
+	url = git@github.com:anoduck/pandoc-custom-templates.git
+[submodule "easy-pandoc-templates"]
+	path = easy-pandoc-templates
+	url = git@github.com:ryangrose/easy-pandoc-templates.git
+[submodule "panscribe"]
+	path = panscribe
+	url = https://github.com/dylan-k/panscribe
+[submodule "pandoc-templates"]
+	path = pandoc-templates
+	url = git@github.com:jgm/pandoc-templates.git
+[submodule "pandoc-latex-template"]
+	path = pandoc-latex-template
+	url = git@github.com:Wandmalfarbe/pandoc-latex-template.git
+[submodule "academic-pandoc-template"]
+	path = academic-pandoc-template
+	url = git@github.com:maehr/academic-pandoc-template.git
+[submodule "my-academic-pandoc-template"]
+	path = my-academic-pandoc-template
+	url = git@github.com:anoduck/academic-pandoc-template.git
